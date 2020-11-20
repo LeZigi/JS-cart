@@ -1,0 +1,3 @@
+#Unopened cart issue 
+
+I have an issue with how on clicking the ADD button when the cart is not toggled open, items already in cart keep getting added to the cart even though I think the for loop in the addToCartClicked function ought to have solved it. Besides, when these items are added (i.e When cart not toggled-open) the cart total cost appears as 'isNAN' yet everything seemingly works just fine when the cart is open. HEELPPPP!
