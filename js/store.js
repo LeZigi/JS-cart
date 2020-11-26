@@ -9,7 +9,7 @@ if (document.readyState == 'loading') {
 }
 
 //enter engine function
-function ready() {
+function ready(data) {
 
 
 // adding items to cart
